@@ -89,7 +89,7 @@ export function ContactSection() {
               <div className="relative">
                 <div className="w-20 h-20 rounded-full overflow-hidden ring-4 ring-white shadow-xl">
                   <Image
-                    src="/placeholder-user.jpg"
+                    src="/r86/placeholder-user.jpg"
                     alt="Renan Camurça — Especialista R86"
                     width={80}
                     height={80}

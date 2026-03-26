@@ -16,7 +16,7 @@ export function HeroSection() {
       <div className="absolute inset-0 overflow-hidden">
         <div className="absolute top-0 right-0 w-full lg:w-[55%] h-full">
           <Image
-            src="/images/hero-car-ac.jpg"
+            src="/r86/images/hero-car-ac.jpg"
             alt="Renan Camurça realizando serviço de ar condicionado automotivo"
             fill
             priority

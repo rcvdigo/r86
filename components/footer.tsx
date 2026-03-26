@@ -19,7 +19,7 @@ export function Footer() {
           <div>
             <div className="flex items-center gap-3 mb-4">
               <Image
-                src="/images/r86-logo.png"
+                src="/r86/images/r86-logo.png"
                 alt="R86 Ar Condicionado Automotivo"
                 width={40}
                 height={40}

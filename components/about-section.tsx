@@ -28,7 +28,7 @@ export function AboutSection() {
                   Transmite confiança e humaniza a marca.
                 */}
                 <Image
-                  src="/images/about-workshop.jpg"
+                  src="/r86/images/about-workshop.jpg"
                   alt="Renan Camurça — Especialista R86 em sua oficina"
                   fill
                   className="object-cover"

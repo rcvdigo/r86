@@ -15,8 +15,8 @@ export const metadata: Metadata = {
   title: 'R86 | Especialista em Ar-Condicionado Automotivo em Ibiúna — SP | Renan Camurça',
   description: 'Renan Camurça, especialista com +10 anos em ar condicionado automotivo. Higienização, recarga de gás, diagnóstico e manutenção preventiva em Ibiúna e região — SP. Atendimento humanizado pelo WhatsApp.',
   icons: {
-    icon: '/images/r86-logo.png',
-    apple: '/images/r86-logo.png',
+    icon: '/r86/images/r86-logo.png',
+    apple: '/r86/images/r86-logo.png',
   },
   openGraph: {
     type: 'website',
