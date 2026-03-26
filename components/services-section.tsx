@@ -59,16 +59,16 @@ const services = [
   },
   {
     icon: Droplets,
-    title: "Troca de Óleo com Laudo",
+    title: "Troca de Óleo",
     description:
-      "Troca de óleo e filtro com lubrificantes de alta performance. Relatório completo do estado do motor entregue pelo Renan.",
+      "Troca de óleo e filtro com lubrificantes de alta performance para proteger e prolongar a vida útil do motor.",
     highlight: false,
   },
   {
     icon: Car,
-    title: "Revisão Geral Documentada",
+    title: "Revisão Geral",
     description:
-      "Checklist completo do veículo com laudo detalhado. Segurança e desempenho certificados por um especialista.",
+      "Checklist completo do veículo para garantir segurança e desempenho em dia, com orientação clara sobre cada ponto verificado.",
     highlight: false,
   },
 ]

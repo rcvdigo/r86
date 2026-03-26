@@ -16,13 +16,13 @@ const contactInfo = [
   {
     icon: MapPin,
     label: "Localização",
-    value: "São Paulo & Ibiúna — SP",
+    value: "Ibiúna — SP",
     href: null,
   },
   {
     icon: Clock,
     label: "Horário de atendimento",
-    value: "Seg–Sex: 8h–18h  ·  Sáb: 8h–13h",
+    value: "Seg–Sex: 8h–18h",
     href: null,
   },
 ]

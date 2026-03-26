@@ -5,7 +5,7 @@ const WA_LINK = "https://wa.me/5511971922305"
 
 const links = [
   { href: "#servicos", label: "Serviços" },
-  { href: "#sobre", label: "Sobre o Renan" },
+  { href: "#sobre", label: "Sobre nós" },
   { href: "#diferenciais", label: "Diferenciais" },
   { href: "#contato", label: "Contato" },
 ]
@@ -70,8 +70,8 @@ export function Footer() {
               Atendimento
             </h4>
             <div className="flex flex-col gap-2.5">
-              <p className="text-[var(--muted-foreground)] text-sm">São Paulo & Ibiúna — SP</p>
-              <p className="text-[var(--muted-foreground)] text-sm">Seg–Sex: 8h–18h  ·  Sáb: 8h–13h</p>
+              <p className="text-[var(--muted-foreground)] text-sm">Ibiúna — SP</p>
+              <p className="text-[var(--muted-foreground)] text-sm">Seg–Sex: 8h–18h</p>
               <p className="text-[var(--brand-blue)] text-sm font-medium mt-1">
                 Atendimento pessoal — sem robôs
               </p>
@@ -84,7 +84,7 @@ export function Footer() {
             © {new Date().getFullYear()} R86 Ar Condicionado Automotivo. Todos os direitos reservados.
           </p>
           <p className="text-[var(--muted-foreground)] text-xs">
-            São Paulo & Ibiúna — Brasil
+            Ibiúna — SP, Brasil
           </p>
         </div>
       </div>

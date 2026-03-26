@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# ⚠️ AÇÃO NECESSÁRIA: substitua pela URL final do seu GitHub Pages
+Sitemap: https://rcvdigo.github.io/r86/sitemap.xml

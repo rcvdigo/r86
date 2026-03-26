@@ -9,7 +9,7 @@ const WA_LINK = "https://wa.me/5511971922305"
 
 const navLinks = [
   { href: "#servicos", label: "Serviços" },
-  { href: "#sobre", label: "Sobre o Renan" },
+  { href: "#sobre", label: "Sobre nós" },
   { href: "#diferenciais", label: "Diferenciais" },
   { href: "#contato", label: "Contato" },
 ]

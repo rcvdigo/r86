@@ -13,39 +13,39 @@ import { SectionWrapper } from "./section-wrapper"
 const benefits = [
   {
     icon: UserCheck,
-    title: "Especialista Direto, Sem Intermediários",
+    title: "Atendimento Humanizado e Personalizado",
     description:
-      "Você conversa pelo WhatsApp direto com o Renan. Diagnóstico, orçamento e atendimento feito por quem realmente sabe.",
+      "Na R86, você não fala com atendente nem robô. O contato é direto, humano e pensado para resolver o seu problema de verdade.",
   },
   {
     icon: ShieldCheck,
-    title: "Garantia Real nos Serviços",
+    title: "Garantia em Todos os Serviços",
     description:
-      "Todos os serviços possuem garantia. Se algo não estiver certo, o Renan resolve — sem burocracia.",
+      "Cada serviço realizado pela R86 tem garantia. Entregamos qualidade com responsabilidade — sem burocracia.",
   },
   {
     icon: BadgeDollarSign,
     title: "Orçamento Transparente",
     description:
-      "Preço claro, sem surpresas. Você aprova tudo antes de qualquer serviço ser realizado.",
+      "Preço claro, sem surpresas. Você aprova o orçamento antes de qualquer serviço ser iniciado.",
   },
   {
     icon: MessageCircle,
-    title: "Atendimento Humanizado via WhatsApp",
+    title: "Agendamento Simples pelo WhatsApp",
     description:
-      "Tire dúvidas, acompanhe o serviço e receba orientações técnicas diretamente pelo WhatsApp — sem robôs.",
+      "Sem filas, sem formulários. Agende, tire dúvidas e acompanhe o serviço direto pelo WhatsApp, no seu tempo.",
   },
   {
     icon: Zap,
-    title: "Agendamento Ágil e Flexível",
+    title: "Diagnóstico Rápido e Preciso",
     description:
-      "Sem filas ou tempo perdido. Agende pelo WhatsApp no horário que for melhor para você.",
+      "A R86 identifica o problema com agilidade e apresenta a solução de forma clara antes de qualquer intervenção.",
   },
   {
     icon: Gauge,
-    title: "Equipamentos de Última Geração",
+    title: "Equipamentos Homologados",
     description:
-      "Máquinas homologadas para diagnóstico e recarga de gás. Precisão técnica em cada procedimento.",
+      "Utilizamos máquinas de última geração para diagnóstico e recarga de gás, garantindo precisão técnica em cada serviço.",
   },
 ]
 
@@ -57,14 +57,14 @@ export function BenefitsSection() {
           {/* Header */}
           <div className="text-center mb-14 lg:mb-16">
             <span className="inline-block text-[var(--brand-blue)] text-sm font-semibold uppercase tracking-widest mb-3">
-              O diferencial R86 Ar Condicionado
+              Por que escolher a R86
             </span>
             <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold text-[var(--brand-navy)] tracking-[-0.02em] text-balance mb-4">
-              Por que o Renan é diferente
+              Nossos Diferenciais
             </h2>
             <p className="text-[var(--muted-foreground)] text-lg max-w-xl mx-auto leading-relaxed">
-              Não é só um serviço de ar condicionado. É um especialista comprometido
-              com o seu conforto — e que você pode chamar quando quiser.
+              A R86 Ar Condicionado Automotivo une técnica especializada,
+              atendimento humanizado e transparência total — do diagnóstico à entrega.
             </p>
           </div>
 

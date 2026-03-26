@@ -50,27 +50,17 @@ export function HeroSection() {
           <p className="text-lg text-[var(--muted-foreground)] leading-relaxed mb-8 max-w-[520px] tracking-[-0.01em]">
             Higienização, recarga de gás, diagnóstico e manutenção preventiva
             com atendimento humanizado — direto com o Renan, sem intermediários,
-            via WhatsApp. São Paulo e Ibiúna.
+            via WhatsApp. Ibiúna — SP.
           </p>
 
           {/* Social proof row */}
           <div className="flex items-center gap-2 mb-6">
-            <div className="flex -space-x-1.5">
-              {[1, 2, 3, 4].map((i) => (
-                <div
-                  key={i}
-                  className="w-7 h-7 rounded-full bg-[var(--brand-blue)]/15 border-2 border-white flex items-center justify-center"
-                >
-                  <span className="text-[8px] font-bold text-[var(--brand-blue)]">{i}</span>
-                </div>
-              ))}
-            </div>
-            <div className="flex items-center gap-1 ml-1">
+            <div className="flex items-center gap-1">
               {[...Array(5)].map((_, i) => (
-                <Star key={i} className="w-3.5 h-3.5 fill-amber-400 text-amber-400" />
+                <Star key={i} className="w-4 h-4 fill-amber-400 text-amber-400" />
               ))}
             </div>
-            <span className="text-sm text-[var(--muted-foreground)] font-medium">+2.000 clientes satisfeitos</span>
+            <span className="text-sm text-[var(--muted-foreground)] font-medium">+2.000 clientes atendidos em Ibiúna</span>
           </div>
 
           {/* Highlights */}

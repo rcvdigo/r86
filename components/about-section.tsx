@@ -9,7 +9,7 @@ const WA_LINK = "https://wa.me/5511971922305"
 const credentials = [
   { icon: BadgeCheck, text: "Especialista certificado em climatização automotiva" },
   { icon: UserCheck, text: "Você fala diretamente com o Renan — sem assistentes" },
-  { icon: MapPin, text: "Atendimento em São Paulo e Ibiúna — SP" },
+  { icon: MapPin, text: "Atendimento em Ibiúna — SP" },
 ]
 
 export function AboutSection() {
@@ -55,7 +55,7 @@ export function AboutSection() {
             {/* Text */}
             <div>
               <span className="inline-block text-[var(--brand-blue)] text-sm font-semibold uppercase tracking-widest mb-3">
-                Quem é o Renan
+                Sobre nós
               </span>
               <h2 className="text-3xl sm:text-4xl font-bold text-[var(--brand-navy)] tracking-[-0.02em] text-balance mb-5 leading-tight">
                 Um especialista dedicado ao conforto do seu veículo
